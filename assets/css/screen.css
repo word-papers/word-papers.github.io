@@ -141,6 +141,10 @@ header.page-header {
   margin-bottom: 3em;
 }
 /* === Body === */
+.divider {
+  float: left;
+  width: 300px;
+}
 section.author,
 section.share {
   width: 100%;
@@ -240,10 +244,15 @@ h2 {
   text-transform: uppercase;
   font-weight: 300;
 }
+section.post-content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
 section.post-content img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
+  margin-bottom: 100px;
 }
 section.preview.archive h2 {
   text-align: left;
