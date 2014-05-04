@@ -290,8 +290,6 @@ footer.post-footer {
 }
 /* === Navigation and Pagination === */
 nav {
-  border-bottom: 1px solid #ecf0f1;
-  border-top: 1px solid #ecf0f1;
   margin-bottom: 3em;
   text-align: center;
 }
@@ -379,6 +377,9 @@ a.archive-link {
 .newer-posts:hover {
   color: #000000;
   text-decoration: none;
+}
+.more {
+  max-width: 150px;
 }
 /* === Extras === */
 .gist {
