@@ -50,6 +50,7 @@ dd {
   font-weight: 100;
   line-height: 30px;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 dt {
   font-weight: 400;
@@ -271,7 +272,6 @@ img.userimage {
 }
 /* === Footer === */
 footer {
-  margin: 4em 0 0;
   padding: 2em 0;
   text-align: center;
 }
